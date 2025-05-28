@@ -115,6 +115,5 @@ python3 detecter.py --model models/ssd_model.tflite --labels models/coco_labels.
 
 - `sort.py` is licensed under the GNU General Public License (GPL v3).
 - `common.py`, `gstreamer.py`, and `tracker.py` are adapted from Coral examples licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-- Other parts of this project are currently unlicensed. You may apply a license (e.g., MIT, GPL) as needed.
 
 ---
